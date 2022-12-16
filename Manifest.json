@@ -1,0 +1,19 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Void world generation",
+		"name": "Void_World",
+		"uuid": "7b75c374-fd75-4287-a0f1-6137bc398a57",
+		"version": [ 0,0,3 ],
+		"min_engine_version": [ 1, 19, 30 ]
+	},
+	"modules": [
+		{
+			"description": "",
+			"type": "data",
+			"uuid": "024cc01f-5206-4cbd-9930-3b9e099be316",
+			"version": [0, 0, 1]
+		}
+	]
+}
+
