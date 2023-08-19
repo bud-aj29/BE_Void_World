@@ -2,8 +2,8 @@
   "format_version": "1.13.0",
   "minecraft:feature_rules": {
     "description": {
-      "identifier": "minecraft:taiga_surface_tall_grass_feature",
-      "places_feature": "minecraft:taiga_tall_grass_feature"
+      "identifier": "minecraft:cherry_biome_surface_tall_grass_feature_rules",
+      "places_feature": "minecraft:scatter_tall_grass_feature"
     },
     "conditions": {
       "placement_pass": "surface_pass",
@@ -11,25 +11,19 @@
         {
           "test": "has_biome_tag",
           "operator": "==",
-          "value": "taiga"
-        },
-        {
-          "test": "has_biome_tag",
-          "operator": "!=",
-          "value": "mega"
+          "value": "cherry_grove"
         }
       ]
     },
     "distribution": {
       "iterations": 0,
-      "scatter_chance": "variable.is_legacy ? 0.0 : 100.0",
       "x": {
         "distribution": "uniform",
         "extent": [ 0, 16 ]
       },
       "y": {
         "distribution": "uniform",
-        "extent": [ 0, "query.heightmap(variable.worldx, variable.worldz) * 2" ]
+        "extent": [ 0, "query.heightmap(variable.worldx, variable.worldz) + 4" ]
       },
       "z": {
         "distribution": "uniform",
@@ -38,3 +32,100 @@
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -3,15 +3,15 @@
 	"header": {
 		"description": "Void world generation",
 		"name": "Void_World",
-		"uuid": "7b75c374-fd75-4287-a0f1-6137bc398a57",
-		"version": [ 0,0,3 ],
-		"min_engine_version": [ 1, 19, 30 ]
+		"uuid": "336378d5-1820-4b0b-af63-3745b4e26092",
+		"version": [ 0,0,4 ],
+		"min_engine_version": [ 1, 20, 10 ]
 	},
 	"modules": [
 		{
 			"description": "",
 			"type": "data",
-			"uuid": "024cc01f-5206-4cbd-9930-3b9e099be316",
+			"uuid": "e2c5955b-3622-4576-aeb2-2a69500a5703",
 			"version": [0, 0, 1]
 		}
 	]

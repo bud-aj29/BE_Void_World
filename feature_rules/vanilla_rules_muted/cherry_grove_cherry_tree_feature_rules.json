@@ -2,14 +2,16 @@
   "format_version": "1.13.0",
   "minecraft:feature_rules": {
     "description": {
-      "identifier": "minecraft:huge_crimson_fungus_feature",
-      "places_feature": "minecraft:_huge_crimson_fungus_feature"
+      "identifier": "minecraft:cherry_grove_cherry_tree_feature_rules",
+      "places_feature": "minecraft:random_cherry_tree_feature"
     },
     "conditions": {
       "placement_pass": "surface_pass",
       "minecraft:biome_filter": [
         {
-          "test": "has_biome_tag", "operator": "==", "value": "crimson_forest"
+          "test": "has_biome_tag",
+          "operator": "==",
+          "value": "cherry_grove"
         }
       ]
     },
@@ -19,10 +21,7 @@
         "distribution": "uniform",
         "extent": [ 0, 16 ]
       },
-      "y": {
-        "distribution": "uniform",
-        "extent": [ 0, 120 ]
-      },
+      "y": "query.heightmap(variable.worldx, variable.worldz)",
       "z": {
         "distribution": "uniform",
         "extent": [ 0, 16 ]
@@ -30,3 +29,103 @@
     }
   }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
