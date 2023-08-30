@@ -2,16 +2,16 @@
 	"format_version": 2,
 	"header": {
 		"description": "Void world generation",
-		"name": "Void_World",
-		"uuid": "336378d5-1820-4b0b-af63-3745b4e26092",
-		"version": [ 0,0,4 ],
+		"name": "Void_World 0.0.5",
+		"uuid": "e69d7457-5397-4e3c-a708-9ca76f5dcd27",
+		"version": [ 0,0,5 ],
 		"min_engine_version": [ 1, 20, 10 ]
 	},
 	"modules": [
 		{
 			"description": "",
 			"type": "data",
-			"uuid": "e2c5955b-3622-4576-aeb2-2a69500a5703",
+			"uuid": "59f951fe-6cd5-4a7c-a03d-1d104661d21c",
 			"version": [0, 0, 1]
 		}
 	]
