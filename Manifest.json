@@ -2,12 +2,12 @@
   "format_version": 2,
   "header": {
     "description": "Void world generation. Structures kept during generation.",
-    "name": "Void_World_w_struct_v0.0.6",
-    "uuid": "edcceea6-1ff7-48fe-b5a2-a0ba2f2c36de",
+    "name": "Void_World_w_struct_v0.0.7",
+    "uuid": "1a650014-fa53-4df6-94de-57d8d4095d9a",
     "version": [
       0,
       0,
-      6
+      7
     ],
     "min_engine_version": [
       1,
@@ -19,7 +19,7 @@
     {
       "description": "",
       "type": "data",
-      "uuid": "2c158c73-2784-4d0d-a30b-e2caadcd99d3",
+      "uuid": "e8378321-7b80-4f27-bfaf-08e822b2e233",
       "version": [
         0,
         0,
