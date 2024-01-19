@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Void world generation. Structures kept during generation.",
+    "name": "EXPERIMENTAL_Void_World_w_struct_v0.0.7",
+    "uuid": "7d527587-919e-424b-9cfa-d4441c4ffb38",
+    "version": [
+      0,
+      0,
+      7
+    ],
+    "min_engine_version": [
+      1,
+      20,
+      30
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "d5453349-e42c-441e-bee6-c13226afe782",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
